@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tabrezzeta
 - 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... HTML CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... HTML CSS and JavaScript.
 - 📫 How to reach me ...
 
 <!---
